@@ -1,0 +1,16 @@
+# Java build output
+build/
+out/
+*.class
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# The original coursework report is intentionally not published.
+Report_*.pdf
